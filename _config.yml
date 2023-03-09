@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: pages-themes/time-machine@v0.3.0
 title: test-title
 author: SmallMiracles
 description: test-descr.
