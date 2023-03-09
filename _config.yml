@@ -1,4 +1,4 @@
-remote_theme: pages-themes/minima@v3.0
+theme: minima
 title: test-title
 author: SmallMiracles
 description: test-descr.
