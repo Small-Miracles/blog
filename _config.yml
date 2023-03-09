@@ -2,3 +2,6 @@ theme: minima
 title: test-title
 author: SmallMiracles
 description: test-descr.
+
+plugins:
+  - jekyll-gist
