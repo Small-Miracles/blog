@@ -2,6 +2,7 @@ theme: minima
 title: test-title
 author: SmallMiracles
 description: test-descr.
+show_downloads: false
 show_excerpts: true
 
 plugins:
