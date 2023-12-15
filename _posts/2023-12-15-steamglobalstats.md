@@ -11,8 +11,7 @@ Example: Keep track of the unique player count that beat a level in your game. W
 
 The cool thing about global stats is that you as the developer can retrieve the value. With SteamUserStats.RequestGlobalStats(1) and SteamUserStats.GetGlobalStat("level_1_won", out level1WonTotal); and Debug.Log(level1WonTotal) will show how many unique players beat that level.
 
-For reference, here's a full example using Unity: {% gist 06673ae23cc0f61ecd8bac9ec44b8994 
-SteamScript.cs  %}
+For reference, here's a full example using Unity: {% gist 06673ae23cc0f61ecd8bac9ec44b8994 SteamScript.cs  %}
 
 Will this help in making your game better? I added it out of curiosity and to learn the Steamworks SDK for stats. Also, there are obviously more sophisticated analytics tools out there to use.
 
