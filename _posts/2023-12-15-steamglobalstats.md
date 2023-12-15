@@ -16,6 +16,3 @@ Will this help in making your game better? I added it out of curiosity and to le
 Further examples for analytics are total money or total kills. Average length of playtime per level would also work by dividing global total playtime for a level by total playercount that beat the level. 
 
 For reference, here's a full example using Unity: {% gist 06673ae23cc0f61ecd8bac9ec44b8994 SteamScript.cs  %}
-
-{% gist 06673ae23cc0f61ecd8bac9ec44b8994 
-SteamScript.cs  %}
